@@ -1,0 +1,14 @@
+package com.xworkz.details;
+
+public class Government {
+
+	static float govtOfficers(String name) {
+		
+		if(name == "") {
+			System.out.println("name of the officer is "+name);
+			return  ;
+		}
+		return 0.0;
+	}
+	
+}

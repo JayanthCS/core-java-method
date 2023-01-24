@@ -1,0 +1,16 @@
+package com.xworkz.details;
+
+public class GovernmentRunner {
+
+	
+	public static void main(String[] args) {
+		
+		System.out.println("Inside main method");
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		
+		System.out.println("Inside main method");
+	}
+}

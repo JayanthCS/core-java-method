@@ -1,0 +1,13 @@
+package com.xworkz.details;
+
+public class Medical {
+
+	static int medicine(String name) {
+		
+		if(name == "") {
+			System.out.println("Name of madicine is "+name);
+			return  ;
+		}
+	}
+	
+}

@@ -1,0 +1,73 @@
+package com.xworkz.details;
+
+public class GovernmentRunner {
+
+	
+	public static void main(String[] args) {
+		
+		System.out.println("Inside main method");
+		
+		float ref = Government.govtOfficers("Engineer");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("Nurses");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		float ref = Government.govtOfficers("");
+		System.out.println("Salary is "+ref);
+		
+		
+		System.out.println("Inside main method");
+	}
+}

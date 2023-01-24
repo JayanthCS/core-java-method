@@ -1,0 +1,6 @@
+package com.xworkz.details;
+
+public class IngredientsItem {
+
+	static String[] ingredientName(String)
+}

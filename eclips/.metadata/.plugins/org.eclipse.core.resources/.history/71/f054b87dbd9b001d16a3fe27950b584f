@@ -1,0 +1,19 @@
+package com.xworkz.details;
+
+public class IngredientsItem {
+
+	static String[] foodItem(String name) {
+		
+		if(name == "rotti") {
+			
+			System.out.println("foodItem name is "+ name);
+			String  ingredients[] = {"Hittu", "neeru", "uppu",};
+			for(int i=0;i<ingerdients.length; i++) {
+				System.out.println(ingerdients[i]);
+			}
+			return ingredients[i]; 
+		}
+		return null;
+	}
+	
+}

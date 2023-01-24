@@ -1,0 +1,87 @@
+package com.xworkz.details;
+
+public class GovernmentRunner {
+
+	
+	public static void main(String[] args) {
+		
+		System.out.println("Inside main method");
+		
+		float ref = Government.govtOfficers("Engineer");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Nurses");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Doctors MBBS");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Doctors MD/MS");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Dietician");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Teacher");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Account officers");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Software eng");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Scientists");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Programmers");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Clerks");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Data entry operator");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Electrician");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Plumber");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Welder");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Driver");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Cashier");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Staff");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Receptionists");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Gardeners");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Police");
+		System.out.println("Salary is "+ref);
+			
+		 ref = Government.govtOfficers("SI");
+		System.out.println("Salary is "+ref);
+				
+		 ref = Government.govtOfficers("SP");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("Constable");
+		System.out.println("Salary is "+ref);
+		
+		 ref = Government.govtOfficers("PSI");
+		System.out.println("Salary is "+ref);
+		
+		System.out.println("Inside main method");
+	}
+}

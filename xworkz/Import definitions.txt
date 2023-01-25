@@ -1,0 +1,18 @@
+Import Definations
+
+Import : Import is a java keyword,
+         It declares a java class to use in the code below the import statement.
+        * The import keyword used to import a package, class or interface.
+
+Statements : java statement are instructions that tell programming language 
+             what to do, like declaration and String statements.
+         EX : double entryFee = 15.00;
+
+static import : With the help of static import we can access the static members 
+                of a class directly without className or any object.
+              Ex : We always use sqrt() method of math class by using math class
+                  But by using static import we can access dirctly the sqrt() method
+              * It uses less coding.
+
+Wild card import:  Wild card import refers to importing a package insted of declaring
+                   specific class names being used from a package. 					
